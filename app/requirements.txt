@@ -1,0 +1,6 @@
+Arpeggio==1.10.2
+aiohttp==3.8.1
+azure-ai-textanalytics==5.1.0
+azure-common==1.1.28
+fastapi==0.78.0
+uvicorn==0.18.2
